@@ -1,0 +1,16 @@
+review_id,customer_name,review_text,date
+R001,Alice Johnson,"Absolutely love this product! It has completely transformed my workflow and saved me hours every week.",2025-11-01
+R002,Bob Martinez,"Terrible experience. The app crashed three times today and I lost all my data. Considering canceling my subscription.",2025-11-02
+R003,Carol Williams,"It's okay, nothing special. Does what it says but the UI feels outdated compared to competitors.",2025-11-03
+R004,David Chen,"Outstanding customer support! They resolved my issue within minutes. The product itself is solid.",2025-11-04
+R005,Emma Davis,"Very disappointed. Features that were promised in the last update are still missing. Feels like false advertising.",2025-11-05
+R006,Frank Wilson,"Great value for money. The free tier is generous and the paid plans are reasonable.",2025-11-06
+R007,Grace Lee,"The onboarding process was confusing and I almost gave up. Once I figured it out, the product was decent.",2025-11-08
+R008,Henry Taylor,"Worst purchase I've ever made. Buggy, slow, and the support team is unresponsive. Want a refund immediately.",2025-11-09
+R009,Isabelle Brown,"Really impressed with the latest update. The new dashboard is clean and the analytics are powerful.",2025-11-10
+R010,James Anderson,"Mixed feelings. Some features are excellent but the mobile app is barely functional.",2025-11-11
+R011,Karen Thomas,"Been using this for 6 months and it keeps getting better. The team clearly listens to feedback.",2025-11-12
+R012,Liam Jackson,"Charged me twice this month and still waiting for a refund after 2 weeks. Unacceptable.",2025-11-13
+R013,Mia White,"The API documentation is excellent. Integration was seamless and took less than an hour.",2025-11-14
+R014,Noah Harris,"Product is fine but way overpriced for what it offers. Competitors give more for less.",2025-11-15
+R015,Olivia Martin,"This is exactly what our team needed. Collaboration features are top-notch and the real-time sync is flawless.",2025-11-16
